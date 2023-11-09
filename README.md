@@ -31,4 +31,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Xiamu-ssr&theme=blood)](https://git.io/streak-stats)
 
-[![](https://stats.justsong.cn/api/leetcode/?username=Xiamusss&theme=vue)]()
+[![](https://stats.justsong.cn/api/leetcode/?username=xiamusss&cn=true&theme=vue)](https://leetcode.cn/u/xiamusss/)
+[![](https://stats.justsong.cn/api/zhihu?username=1138882663&theme=vue)](https://www.zhihu.com/people/1138882663)
+[![](https://stats.justsong.cn/api/bilibili/?id=1398826277&theme=vue)](https://space.bilibili.com/1398826277)
+[![](https://stats.justsong.cn/api/csdn?id=m0_51390969&theme=vue)](https://blog.csdn.net/m0_51390969)
+
+
+
