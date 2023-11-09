@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiamu-ssr&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Static Badge](https://img.shields.io/badge/build-pass-green)
 ![GitHub followers](https://img.shields.io/github/followers/Xiamu-ssr)
 ![GitHub User's stars](https://img.shields.io/github/stars/Xiamu-ssr)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiamu-ssr&layout=donut&langs_count=16&text_color=000&icon_color=fff&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiamu-ssr&repo=OMP-DFSG&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
