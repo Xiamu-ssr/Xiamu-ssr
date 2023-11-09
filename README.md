@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiamu-ssr&layout=donut&langs_count=16&text_color=000&icon_color=fff&theme=graywhite")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xiamu-ssr&repo=OMP-DFSG&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xiamu-ssr&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xiamu-ssr&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xiamu-ssr&theme=blood)](https://git.io/streak-stats)
+
+[![](https://stats.justsong.cn/api/leetcode/?username=Xiamusss&theme=vue)]()
