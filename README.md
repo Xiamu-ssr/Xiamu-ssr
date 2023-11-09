@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
+
+![Static Badge](https://img.shields.io/badge/build-pass-green)
+![GitHub followers](https://img.shields.io/github/followers/Xiamu-ssr)
+![GitHub User's stars](https://img.shields.io/github/stars/Xiamu-ssr)
+
+
