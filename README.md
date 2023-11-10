@@ -122,7 +122,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xiamu-ssr&row=2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Xiamu-ssr&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
