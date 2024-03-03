@@ -73,16 +73,16 @@ Sunday                   119 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-project-xczx2-portal-vue-0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Vue** 
@@ -98,7 +98,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2024 18:42:07 UTC
+ Last Updated on 03/03/2024 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 </div>
