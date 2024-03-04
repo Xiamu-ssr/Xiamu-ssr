@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiamu-ssr&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,16 +73,20 @@ Sunday                   119 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      22 mins             ██████████░░░░░░░░░░░░░░░   39.96 % 
+YAML                     16 mins             ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+SQL                      12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+.env file                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yudao-cloud              55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Vue** 
@@ -98,7 +102,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2024 18:42:16 UTC
+ Last Updated on 04/03/2024 18:43:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
