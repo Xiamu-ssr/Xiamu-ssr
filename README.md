@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiamu-ssr&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -101,7 +103,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 23:02:40 UTC
+ Last Updated on 15/04/2024 18:42:55 UTC
 <!--END_SECTION:waka-->
 
 </div>
