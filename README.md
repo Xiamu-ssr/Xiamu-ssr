@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiamu-ssr&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,13 +38,11 @@ Here are some ideas to get you started:
 
 > 📦 415.8 kB Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -73,24 +71,23 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     11 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.50 % 
-Vue.js                   11 hrs 1 min        ███████████░░░░░░░░░░░░░░   43.08 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-XML                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Vue.js                   17 hrs 4 mins       ████████████████░░░░░░░░░   63.02 % 
+Java                     7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+TypeScript               1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+textmate                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-IntelliJ                 25 hrs 36 mins      █████████████████████████   100.00 % 
+IntelliJ                 27 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-RuoYi-Cloud-Plus         13 hrs 12 mins      █████████████░░░░░░░░░░░░   51.62 % 
-plus-ui                  12 hrs 10 mins      ████████████░░░░░░░░░░░░░   47.55 % 
-xuecheng-plus-project    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-project-xczx2-portal-vue-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+plus-ui                  18 hrs 51 mins      █████████████████░░░░░░░░   69.66 % 
+RuoYi-Cloud-Plus         8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+project-xczx2-portal-vue-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 dist                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  25 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -106,7 +103,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2024 18:42:22 UTC
+ Last Updated on 24/04/2024 18:42:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
