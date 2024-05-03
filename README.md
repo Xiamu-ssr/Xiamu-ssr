@@ -76,10 +76,10 @@ Markdown                   4 hrs 20 mins   -------------------------   00.82 %
 
 <div align="center">
 
-[![](https://stats.justsong.cn/api/leetcode/?username=xiamusss&cn=true&theme=vue)](https://leetcode.cn/u/xiamusss/)
-[![](https://stats.justsong.cn/api/zhihu?username=1138882663&theme=vue)](https://www.zhihu.com/people/1138882663)
-[![](https://stats.justsong.cn/api/bilibili/?id=1398826277&theme=vue)](https://space.bilibili.com/1398826277)
-[![](https://stats.justsong.cn/api/csdn?id=m0_51390969&theme=vue)](https://blog.csdn.net/m0_51390969)
+[![](https://stats.justsong.cn/api/leetcode/?username=xiamusss&cn=true&theme=vue&lang=zh-CN)](https://leetcode.cn/u/xiamusss/)
+[![](https://stats.justsong.cn/api/zhihu?username=1138882663&theme=vue&lang=zh-CN)](https://www.zhihu.com/people/1138882663)
+[![](https://stats.justsong.cn/api/bilibili/?id=1398826277&theme=vue&lang=zh-CN)](https://space.bilibili.com/1398826277)
+[![](https://stats.justsong.cn/api/csdn?id=m0_51390969&theme=vue&lang=zh-CN)](https://blog.csdn.net/m0_51390969)
   
 </div>
 
