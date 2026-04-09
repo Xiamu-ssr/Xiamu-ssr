@@ -27,13 +27,11 @@
 ## profile
 
 ```txt
-focus      = agent runtimes, infra, multimodal systems, smart hardware
-background = java, vue, backend engineering
+focus      = ai coding, agent runtimes, infra, multimodal systems, smart hardware
 bias       = build real systems
 ```
 
-I used to spend a lot of time on **Java / Vue / web engineering**.
-Now I'm much more interested in **agent runtimes, AI infrastructure, multimodal systems, and AI capabilities that can actually land on devices**.
+Right now I'm primarily focused on **AI coding, agent runtimes, AI infrastructure, multimodal systems, and AI capabilities that can actually land on devices**.
 
 ## selected projects
 
