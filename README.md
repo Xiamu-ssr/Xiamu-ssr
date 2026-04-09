@@ -62,20 +62,17 @@ Used to validate runtime and API design under real usage.
 - platform / api design
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Xiamu-ssr&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiamu-ssr&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Xiamu-ssr&theme=transparent&hide_border=true&card_width=820" />
 </div>
 
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Xiamu-ssr&theme=transparent&hide_border=true&card_width=820" />
-</div>
+## contribution snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xiamu-ssr&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiamu-ssr&theme=github-compact&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiamu-ssr/Xiamu-ssr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiamu-ssr/Xiamu-ssr/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Xiamu-ssr/Xiamu-ssr/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ## links
